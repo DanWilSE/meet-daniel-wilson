@@ -4,7 +4,7 @@ body {
 background-color: #6699ff;
 }
 
-/* These are the Header and Footer Rules.
+ These are the Header and Footer Rules.
 
 .header and footer{
 font-family: "New Times Roman", Times, serif;
@@ -22,13 +22,13 @@ padding-bottom: 50px;
 }
 
 
-/* These are the main container rules.
+These are the main container rules.
 
 main {
 background-color: #ccccff;
 }
 
-/* This is the h2, h3, and paragraph rules font and color.
+/* This is the h2, h3, and paragraph rules font and color.*/
 
 
 .h2, h3, p{
@@ -36,7 +36,7 @@ font-family: Arial, Helvetica, sans-serif;
 color: #4d4d4d;
 }
 
-/* This is for h2 and h3 text alignment.
+/* This is for h2 and h3 text alignment.*/
 
 
 h2, h3{
