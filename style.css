@@ -6,7 +6,7 @@ background: #6699ff;
 
  /*These are the Header and Footer Rules.*/
 
-.header and footer{
+header, footer{
 font-family: "New Times Roman", Times, serif;
 background: #660000;
 color: gold;
