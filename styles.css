@@ -48,10 +48,6 @@ color: #4d4d4d;
 This is for h2 and h3 text alignment.
 */
 
-.movetext{
-  text-indent: -80px; 
-}
-
 h2, h3, p{
 text-align: center:
 }
