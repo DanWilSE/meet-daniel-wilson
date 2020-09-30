@@ -58,8 +58,8 @@ ul{
  list-style-position: inside; 
 }
 
-.8px{
-  text-indent: 8px;
+/*.8px{
+  text-indent: 8px;*/
 }
 
   
@@ -105,12 +105,6 @@ ol{
   list-style-position: inside; 
 }
 
-/*.tab{
-  text-indent: 272px;*/
-}
-
-.left{
-  text-align:left;
 /*
 This is the Footer Rule.
 */
