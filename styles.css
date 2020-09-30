@@ -22,7 +22,7 @@ header, footer{
 
 header{
  font-size: 28px;
- padding-top: 30px;
+ padding-top: 20px;
  padding-bottom: 30px;
  
 }
@@ -91,7 +91,7 @@ This is the Footer Rule.
 footer {
  font-size: 14px;
  padding-top: 12px;
- padding-bottom: 12px;
+ padding-bottom: 6px;
   
 }
 
