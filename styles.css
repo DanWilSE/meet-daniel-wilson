@@ -48,12 +48,8 @@ color: #4d4d4d;
 This is for h2 and h3 text alignment.
 */
 
-h2{
+h2, h3, p{
 text-align: center:
-}
-
-h3, p{
-  text-indent:280px;
 }
 
 ul{
@@ -97,11 +93,11 @@ margin-bottom: 80px;
 /* This the ordered list rule*/
 
 ol{
-  text-align: left;
+  text-indent: 380px;
   color: #333333;
 }
-.tab{
-  text-indent: 272px;
+/*.tab{
+  text-indent: 272px;*/
 }
 
 .left{
