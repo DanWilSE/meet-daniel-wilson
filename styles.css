@@ -53,9 +53,11 @@ text-align: center:
 }
 
 ul{
-  text-align:center;
-  color: #333333;
-
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ color: #333333;
+  
 /*
  This is the list items rules.
 */
