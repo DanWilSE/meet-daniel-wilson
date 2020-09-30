@@ -54,6 +54,8 @@ text-align: center:
 
 ul{
  color: #333333;
+ text-align: center;
+ list-style-position: inside; 
 }
   
 /*
@@ -93,9 +95,11 @@ margin-bottom: 80px;
 /* This the ordered list rule*/
 
 ol{
-  text-indent: 380px;
   color: #333333;
+  text-indent: 380px;
+  list-style-position: inside; 
 }
+
 /*.tab{
   text-indent: 272px;*/
 }
@@ -108,8 +112,7 @@ This is the Footer Rule.
 footer {
  font-size: 14px;
  padding-top: 12px;
- padding-bottom: 6px;
-  
+ padding-bottom: 6px;  
 }
 
 
