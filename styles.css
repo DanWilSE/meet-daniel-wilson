@@ -1,24 +1,30 @@
-/* This is the body background color. 
+/* 
+This is the body background color.
 */
+
 body {
-background:border-box #66ccff;
+  background:border-box #66ccff;
+  box-sizing:border-box;
+  margin:auto;
+
 } 
 
  /*
-This is the Header Rule.
+This is the Header and Footer Class Selector Rule.
 */
 
 .set-class: header, footer{
-background:#660000;
-font-family:"New Times Roman", Times, serif;
-color:gold;
-text-alignment:center;
+ background:#660000;
+ font-family:"New Times Roman", Times, serif;
+ color:gold;
+ text-alignment:center;
+
 }
 
 header{
  font-size: 28px;
- padding-top: 30px;
- padding-bottom: 30px;
+ padding-top: 80px;
+ padding-bottom: 80px;
 }
 
 
