@@ -16,7 +16,7 @@ text-alignment:center;
 /*These are Header Rules.*/
 
 header {
-font-size: 36px;
+font-size: 28px;
 padding-top: 50px;
 padding-bottom: 50px;
 }
@@ -28,7 +28,8 @@ main {
 background-color: #ccccff;
 }
 
-/* This is the h2, h3, and paragraph rules font and color.
+/*
+ This is the h2, h3, and paragraph rules font and color.
 */
 
 .h2, h3, p{
@@ -36,14 +37,16 @@ font-family: Arial, Helvetica, sans-serif;
 color: #4d4d4d;
 }
 
-/* This is for h2 and h3 text alignment.
+/* 
+This is for h2 and h3 text alignment.
 */
 
 h2, h3{
 text-alignment: center:
 }
 
-/* This is the list items rules.
+/*
+ This is the list items rules.
 */
 
 li {
@@ -51,9 +54,9 @@ font-family: Arial, Helvetica, sans-serif;
 color: #333333;
 }
 
-/* These are the anchor rules for the links.
-
-
+/* 
+These are the anchor rules for the links.
+*/
 a {
 font-family: Arial, Helvetica, sans-serif:
 font-size: 14px;
@@ -64,7 +67,8 @@ a:visited(color: #808080};
 a:hover(color: #ffff66};
 a:active{color: #258e25};
 
-/* This is the Horizontal Rule.
+/* 
+This is the Horizontal Rule.
 */
 
 hr(
