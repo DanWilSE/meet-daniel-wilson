@@ -53,9 +53,6 @@ text-align: center:
 }
 
 ul{
- list-style: none;
- margin: 0;
- padding: 0;
  color: #333333;
 }
   
@@ -98,6 +95,11 @@ margin-bottom: 80px;
 ol{
   text-align: left;
   color: #333333;
+}
+
+.left{
+  text-align: left;
+}
 
 /*
 This is the Footer Rule.
