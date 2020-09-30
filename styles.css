@@ -32,7 +32,7 @@ background-color: #ccccff;
  This is the h2, h3, and paragraph rules font and color.
 */
 
-.h2, h3, p{
+h2, h3, p{
 font-family: Arial, Helvetica, sans-serif;
 color: #4d4d4d;
 }
