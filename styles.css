@@ -17,7 +17,7 @@ header, footer{
  background-color:#660000;
  font-family:"New Times Roman", Times, serif;
  color:gold;
- text-alignment:center;
+ text-align:center;
 }
 
 header{
@@ -48,8 +48,8 @@ color: #4d4d4d;
 This is for h2 and h3 text alignment.
 */
 
-h2, h3{
-text-alignment: center:
+h2, h3, p{
+text-align: center:
 }
 
 /*
