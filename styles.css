@@ -6,7 +6,7 @@ background:border-box #66ccff;
 
  /*These are the Header and Footer Rules.
 */
-.set-class (header, footer){
+.set-class: header, footer{
 font-family:"New Times Roman", Times, serif;
 background:#660000;
 color:gold;
@@ -17,8 +17,8 @@ text-alignment:center;
 
 header {
 font-size: 28px;
-padding-top: 50px;
-padding-bottom: 50px;
+padding-top: 30px;
+padding-bottom: 30px;
 }
 
 /*
@@ -77,6 +77,11 @@ background color: #b3b3ff;
 border: 2px solid gold;
 margin-top: 80px;
 margin-bottom: 80px;
+
+footer {
+ font-size: 12px;
+ padding-top: 15px;
+ padding-bottom: 15px;
 
 
 
