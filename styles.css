@@ -75,6 +75,10 @@ color: #333333;
   text-indent: 8px;
 }
 
+.letter1{
+  text-indent: -8px;
+}
+
 /* 
 These are the anchor rules for the links.
 */
