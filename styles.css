@@ -96,11 +96,9 @@ ol{
   text-align: left;
   color: #333333;
 }
-
-.left{
-  text-align: left;
+.tab{
+  text-indent: 272px;
 }
-
 /*
 This is the Footer Rule.
 */
