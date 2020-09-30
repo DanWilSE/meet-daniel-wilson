@@ -1,6 +1,6 @@
 /* 
 This is the body background color.
-
+*/
 
 body {
   background:border-box #66ccff;
@@ -8,7 +8,7 @@ body {
   margin:auto;
 
 } 
-*/
+
  /*
 This is the Header and Footer Class Selector Rule.
 */
@@ -22,8 +22,8 @@ header, footer{
 
 header{
  font-size: 28px;
- padding-top: 60px;
- padding-bottom: 60px;
+ padding-top: 30px;
+ padding-bottom: 30px;
  
 }
 
@@ -90,8 +90,8 @@ This is the Footer Rule.
 */
 footer {
  font-size: 14px;
- padding-top: 20px;
- padding-bottom: 20px;
+ padding-top: 12px;
+ padding-bottom: 12px;
   
 }
 
