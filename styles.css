@@ -55,8 +55,9 @@ ul{
  color: #333333;
  text-align: left;
  list-style-position: inside; 
- margin-right: 240px;
+ margin-right: 0;
  margin-left: 0;
+ text-indent: 240px;
 }
   
 /*
