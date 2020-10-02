@@ -88,8 +88,8 @@ font-size: 14px;
 }
 
 a:link{color: #1a1aff;}
-a:visited(color: #808080;}
-a:hover(color: #ffff66;}
+a:visited{color: #808080;}
+a:hover{color: #ffff66;}
 a:active{color: #258e25;}
 
 /* 
