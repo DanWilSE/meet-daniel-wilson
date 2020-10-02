@@ -58,6 +58,10 @@ ul{
  margin-right: 0;
  margin-left: 0;
 }
+
+  .indent column{
+    text-indent: 360px;
+}
   
 /*
  This is the list items rules.
@@ -79,9 +83,6 @@ color: #333333;
   text-indent:-64px;
 }
 
-  .indent column{
-    text-indent: 360px;
-}
 /* 
 These are the anchor rules for the links.
 */
