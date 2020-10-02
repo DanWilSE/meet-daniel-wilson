@@ -47,12 +47,9 @@ color: #4d4d4d;
 This is for h2 and h3 text alignment.
 */
 
-h2, p{
+h2, h3, p{
 text-align: left:
 }
-
-h3{
-  text-align: center;
 
 ul{
  color: #333333;
