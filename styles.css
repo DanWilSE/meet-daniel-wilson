@@ -48,12 +48,12 @@ This is for h2 and h3 text alignment.
 */
 
 h2, h3, p{
-text-align: center:
+text-align: left:
 }
 
 ul{
  color: #333333;
- text-align: center;
+ text-align: left;
  list-style-position: inside; 
  margin-right: 0;
  margin-left: 0;
