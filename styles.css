@@ -79,6 +79,12 @@ color: #333333;
 .letter2{
   text-indent:-64px;
 }
+ 
+.align art 2{
+  text-align: left;
+  list-style-positiion: inside;
+  margin-right: 0;
+  margin-left: 0;
 
 /* 
 These are the anchor rules for the links.
