@@ -51,10 +51,10 @@ h2, h3, p{
 text-align: left:
 }
 
-.indent1{
+/*.indent1{
   text-indent:-80px;
 }
-
+*/
 ul{
  color: #333333;
  text-align: left;
