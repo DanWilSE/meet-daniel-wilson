@@ -51,6 +51,10 @@ h2, h3, p{
 text-align: left:
 }
 
+p{
+  margin: 0;
+}
+
 /*.indent1{
   text-indent:-80px;
 }
