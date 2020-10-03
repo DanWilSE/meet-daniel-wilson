@@ -6,7 +6,6 @@ body {
   background:border-box #66ccff;
   box-sizing:border-box;
   margin:auto;
-
 } 
 
  /*
@@ -20,16 +19,20 @@ header, footer{
  text-align:center;
 }
 
+/*
+This is Header rule separate from the Footer.
+*/
+
 header{
  font-size: 28px;
  padding-top: 20px;
- padding-bottom: 30px;
- 
+ padding-bottom: 30px; 
 }
 
 /*
 These are the main container rules.
 */
+
 main {
 background-color: #ccccff;
 }
@@ -44,16 +47,17 @@ color: #4d4d4d;
 }
 
 /* 
-This is for h2 and h3 text alignment.
+This is the h2, h3 and pn text alignment.
 */
 
 h2, h3, p{
 text-align: left:
 }
-/*.indent1{
-  text-indent:-80px;
-}
+
+/*
+This is the Unordered List Rule
 */
+
 ul{
  color: #333333;
  text-align: left;
@@ -71,21 +75,18 @@ li {
 font-family: Arial, Helvetica, sans-serif;
 color: #333333;
 }
-.letter{
-  text-indent: 6px;
-}
 
+/* 
+This cdlass is for Ordered List item 2
+*/
 .letter1{
   text-indent: -16px;
 }
-
-.letter2{
-  text-indent:-64px;
-}
  
 /* 
-These are the anchor rules for the links.
+These are the pseudo-classes for the anchor links.
 */
+
 a {
 font-family: Arial, Helvetica, sans-serif:
 font-size: 14px;
@@ -108,7 +109,9 @@ margin-top: 80px;
 margin-bottom: 80px;
 }
 
-/* This the ordered list rule*/
+/* 
+This the Ordered List rule
+*/
 
 ol{
   color: #333333;
