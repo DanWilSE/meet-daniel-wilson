@@ -118,7 +118,7 @@ This the Ordered List rule
 
 ol{
   color: #333333;
-  text-align: center;
+  text-align: left;
   list-style-position: inside; 
  }
 
