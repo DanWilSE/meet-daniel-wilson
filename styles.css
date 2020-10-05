@@ -38,6 +38,17 @@ background-color: #ccccff;
 }
 
 /*
+This is to center images
+*/
+
+img{
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+
+/*
  This is the h2, h3, and paragraph rules font and color.
 */
 
