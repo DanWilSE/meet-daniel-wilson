@@ -65,7 +65,7 @@ ul{
  list-style-position: inside; 
  margin-right: 0;
  margin-left: 0;
- text-indent: 496px;
+ text-indent: 396px;
 }
   
 /*
@@ -81,7 +81,7 @@ color: #333333;
 This class is for Ordered List item 2
 */
 .letter1{
-  text-indent: -16px;
+  text-indent: -8px;
 }
 
 /* 
