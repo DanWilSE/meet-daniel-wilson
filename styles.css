@@ -41,7 +41,12 @@ background-color: #ccccff;
 This is to center images
 */
 
-img{
+.center{
+  width: 20%
+  margin: auto;
+  display: none;
+
+.center1{
   width: 60%;
   margin: auto;
   display: block;
