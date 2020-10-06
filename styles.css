@@ -8,6 +8,14 @@ body {
   margin:auto;
 } 
 
+/*
+This is the rule to center images
+*/
+
+.centerImage{
+text-align: center;
+display: block;
+}
  /*
 This is the Header and Footer Class Selector Rule.
 */
