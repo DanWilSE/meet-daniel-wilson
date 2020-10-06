@@ -14,7 +14,7 @@ This is the rule to center images
 
 img{
 margin: 0;
-display: none;
+display: inline;
 }
  /*
 This is the Header and Footer Class Selector Rule.
