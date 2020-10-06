@@ -12,9 +12,9 @@ body {
 This is the rule to center images
 */
 
-.centerImage{
-text-align: center;
-display: block;
+img{
+margin: 0;
+display: none;
 }
  /*
 This is the Header and Footer Class Selector Rule.
