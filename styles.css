@@ -20,7 +20,8 @@ img{
 
 .my-image{
   display: block;
-  margin: 0;
+  margin left: auto;
+  margin right: auto;
   width: 30%;
 }
 
@@ -63,10 +64,10 @@ color: #4d4d4d;
 }
 
 /* 
-This is the h2, h3 and pn text alignment.
+This is the h2, h3 and p text alignment.
 */
 
-h2, h3, p{
+p{
 text-align: center;
   
 } 
