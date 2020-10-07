@@ -68,7 +68,7 @@ color: #4d4d4d;
 This is the h2, h3 and p text alignment.
 */
 
-p{
+h2, h3, p{
 text-align: center;
   
 } 
