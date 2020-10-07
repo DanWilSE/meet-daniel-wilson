@@ -12,11 +12,17 @@ body {
 This is the rule to center images
 */
 
-.img1{
+img{
   display: block;   
   margin left: 0;
-  margin right: 50;
-  width:40%
+  margin right: 0;
+  width:60%
+}
+
+.my-image{
+  display: block;
+  margin: 0;
+  width: 30%
 }
 
  /*
