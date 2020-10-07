@@ -13,9 +13,12 @@ This is the rule to center images
 */
 
 img{
-margin: 0;
-display: block;
+  display: block;   
+  margin left: 0;
+  margin right: 0;
+  width:40%
 }
+
  /*
 This is the Header and Footer Class Selector Rule.
 */
