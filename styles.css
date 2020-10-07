@@ -14,16 +14,14 @@ This is the rule to center images
 
 img{
   display: block;   
-  margin left: 0;
-  margin right: 0;
-  width:60%
+  margin: 0;
+  width:55%
 }
 
 .my-image{
   display: block;
-  margin left: auto;
-  margin right: auto;
-  width: 25%
+  margin: 0
+  width: 30%
 }
 
  /*
