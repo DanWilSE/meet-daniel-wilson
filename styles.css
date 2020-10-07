@@ -21,8 +21,9 @@ img{
 
 .my-image{
   display: block;
-  margin: 0;
-  width: 30%
+  margin left: auto;
+  margin right: auto;
+  width: 25%
 }
 
  /*
