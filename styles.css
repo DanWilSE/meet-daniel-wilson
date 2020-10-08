@@ -8,22 +8,7 @@ body {
   margin:auto;
 } 
 
-/*
-This is the rule to center images
-*/
-
-img{
-  display: block;   
-  margin: 0;
-  width:55%
-}
-
-.my-image{
-  display: block;
-  margin left: auto;
-  margin right: auto;
-  width: 30%;
-}
+/
 
  /*
 This is the Header and Footer Class Selector Rule.
@@ -71,6 +56,23 @@ h2, h3, p{
 text-align: center;
   
 } 
+
+*
+This is the rule to center images
+*/
+
+img{
+  display: block;   
+  margin: 0;
+  width:55%
+}
+
+.my-image{
+  display: block;
+  margin left: auto;
+  margin right: auto;
+  width: 30%;
+}
 
 /*
 This is the Unordered List Rule
