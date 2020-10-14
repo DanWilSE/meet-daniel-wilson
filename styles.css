@@ -103,6 +103,14 @@ This class is for Ordered List item 2
   text-indent: -8px;
 }
 
+/*
+This class is for Unordered List item 1 
+*/
+
+.letter2{
+  text-indent: -24px
+}
+
 /* 
 These are the pseudo-classes for the anchor links.
 */
