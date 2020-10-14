@@ -9,9 +9,9 @@ body {
 } 
 
 /*
-This is the rule to center images
-im is for Daniel Wilson image,
-img.philly is for Philadelphia Map image class
+This is the rule to center images.
+img is for Daniel Wilson image.
+img.philly is for Philadelphia Map image class.
 */
 
 img{
@@ -51,7 +51,7 @@ header{
 }
 
 /*
-These are the main container rules.
+This is the main container rule.
 */
 
 main {
@@ -59,7 +59,7 @@ background-color: #ccccff;
 }
 
 /*
- This is the h2, h3, and paragraph rules font and color.
+ These are the h2, h3, and paragraph rules font and color.
 */
 
 h2, h3, p{
@@ -76,7 +76,7 @@ text-align: center;
 } 
 
 /*
-This is the Unordered List Rule
+This is the Unordered List Rule.
 */
 
 ul{
@@ -97,15 +97,7 @@ color: #333333;
 }
 
 /*
-This class is for Unlisted Item item 2
-*/
-
-.letter0{
-  text-indent: -12px;
-}
-
-/*
-This class is for Ordered List item 2
+This class is for Unordered List, item 1 and Ordered List item 2.
 */
 
 .letter1{
@@ -113,7 +105,7 @@ This class is for Ordered List item 2
 }
 
 /*
-This class is for Unordered List item 1 
+This class is for Unordered List item 1.
 */
 
 .letter2{
@@ -147,7 +139,7 @@ margin-bottom: 80px;
 }
 
 /* 
-This the Ordered List rule
+This the Ordered List rule.
 */
 
 ol{
