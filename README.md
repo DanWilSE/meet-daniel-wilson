@@ -13,7 +13,7 @@ I will now set forth my best efforts to:
           * Working with highly-innovative developers
           * Create life-changing software for this world
           
-Please take the time to look at my website and feel free to **[Contact Me!!](id="#Contact-Daniel")**
+Please take the time to look at my website and feel free to [Contact Me!!](name=#Contact-Daniel)
 
 ### About Daniel
 
@@ -31,9 +31,9 @@ If you're looking for a new developer, someone who would be devoted
 (or someone who you would want to try out some new ideas with),       
 feel free to contact me. Let's create some code and change the world!!!  
 
-**### [Contact Daniel](id="Contact-Daniel")**
+**### <a name=<Contact-Daniel>Contact Daniel**
 
-It woulkd be very nice to hear from you! Feel free to contact me:
+It would be very nice to hear from you! Feel free to contact me:
 
   1  [LinkedIn](https://www.linkedin.com/in/daniel-wilson-1b3a5915/)  
   2  [GitHub](https://github.com/DanWilSE/)  
