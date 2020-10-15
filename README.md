@@ -13,7 +13,7 @@ I will now set forth my best efforts to:
           * Working with highly-innovative developers
           * Create life-changing software for this world
           
-Please take the time to look at my website and feel free to **[Contact Me!!](a<#contact-daniel></a>)**
+Please take the time to look at my website and feel free to **[Contact Me!!](#contact-daniel)**
 
 ### About Daniel
 
