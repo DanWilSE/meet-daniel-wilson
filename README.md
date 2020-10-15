@@ -31,7 +31,7 @@ If you're looking for a new developer, someone who would be devoted
 (or someone who you would want to try out some new ideas with),       
 feel free to contact me. Let's create some code and change the world!!!  
 
-###<a name="Contact-Daniel"></a>**Contact Daniel**
+###  <a name="Contact-Daniel"></a>**Contact Daniel**
 
 It would be very nice to hear from you! Feel free to contact me:
 
