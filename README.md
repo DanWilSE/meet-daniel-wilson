@@ -13,7 +13,7 @@ I will now set forth my best efforts to:
           * Working with highly-innovative developers
           * Create life-changing software for this world
           
-Please take the time to look at my website and feel free to [Contact Me!!](name=#Contact-Daniel)
+Please take the time to look at my website and feel free to **[Contact Me!!](a<#Contact-Daniel></a>)**
 
 ### About Daniel
 
@@ -31,7 +31,7 @@ If you're looking for a new developer, someone who would be devoted
 (or someone who you would want to try out some new ideas with),       
 feel free to contact me. Let's create some code and change the world!!!  
 
-**### <a name=<Contact-Daniel>Contact Daniel**
+###<a name="Contact-Daniel"></a>**Contact Daniel**
 
 It would be very nice to hear from you! Feel free to contact me:
 
