@@ -37,7 +37,7 @@ It would be very nice to hear from you! Feel free to contact me:
 
   1  [LinkedIn](https://www.linkedin.com/in/daniel-wilson-1b3a5915/)  
   2  [GitHub](https://github.com/DanWilSE/)  
-  3  [dwi@tech-center.com](mailto:dwi@tech-center.com) 
+  3  [Email](mailto:dwi@tech-center.com)  
                             
 ![alt text](https://github.com/DanWilSE/meet-daniel-wilson/blob/master/images/Philadelphia-Map.jpg?raw=true)
 
